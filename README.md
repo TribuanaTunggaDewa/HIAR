@@ -4,7 +4,7 @@ HIAR (Huruf Ijaiyah Augmented Reality) is an augmented reality marker based app 
 # How To Use
 Apk, install on your android device and voila you can scan marker
 
-unitypackage, for development extrack to your workspace
+unitypackage, for development extract to your unity workspace. must be unity 3d 2018.4 above
 
 # Note
 contact me to get more marker
